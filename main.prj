@@ -1,0 +1,7 @@
+verilog work "vga_driver.v"
+verilog work "module_button_edge.v"
+verilog work "module_7segment.v"
+verilog work "FourDigitSevenSegment.v"
+verilog work "clk_divider.v"
+verilog work "clk20t4.v"
+verilog work "main.v"

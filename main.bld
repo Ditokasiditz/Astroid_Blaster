@@ -1,0 +1,113 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc pin.ucf -p xc6slx9-tqg144-3 main.ngc
+main.ngd
+
+Reading NGO file "C:/Users/kasid/Downloads/DEMO (2)/DEMO/DEMO/main.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "pin.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(0)" LOC = P41;> [pin.ucf(20)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(1)" LOC = P40;> [pin.ucf(21)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(2)" LOC = P35;> [pin.ucf(22)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(3)" LOC = P34;> [pin.ucf(23)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(4)" LOC = P32;> [pin.ucf(24)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(5)" LOC = P29;> [pin.ucf(25)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "segm_out(6)" LOC = P27;> [pin.ucf(26)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "common(0)" LOC = P44;> [pin.ucf(38)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "common(1)" LOC = P43;> [pin.ucf(39)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "common(2)" LOC = P33;> [pin.ucf(40)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "common(3)" LOC = P30;> [pin.ucf(41)]' could not be found and so the
+   Locate constraint will be removed.
+
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(0)" LOC = P41;>
+   [pin.ucf(20)] is overridden on the design object segm_out<0> by the
+   constraint <NET "segm_out<0>" LOC = P41;> [pin.ucf(28)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(1)" LOC = P40;>
+   [pin.ucf(21)] is overridden on the design object segm_out<1> by the
+   constraint <NET "segm_out<1>" LOC = P40;> [pin.ucf(29)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(2)" LOC = P35;>
+   [pin.ucf(22)] is overridden on the design object segm_out<2> by the
+   constraint <NET "segm_out<2>" LOC = P35;> [pin.ucf(30)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(3)" LOC = P34;>
+   [pin.ucf(23)] is overridden on the design object segm_out<3> by the
+   constraint <NET "segm_out<3>" LOC = P34;> [pin.ucf(31)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(4)" LOC = P32;>
+   [pin.ucf(24)] is overridden on the design object segm_out<4> by the
+   constraint <NET "segm_out<4>" LOC = P32;> [pin.ucf(32)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(5)" LOC = P29;>
+   [pin.ucf(25)] is overridden on the design object segm_out<5> by the
+   constraint <NET "segm_out<5>" LOC = P29;> [pin.ucf(33)].
+WARNING:NgdBuild:1012 - The constraint <NET "segm_out(6)" LOC = P27;>
+   [pin.ucf(26)] is overridden on the design object segm_out<6> by the
+   constraint <NET "segm_out<6>" LOC = P27;> [pin.ucf(34)].
+WARNING:NgdBuild:1012 - The constraint <NET "common(0)" LOC = P44;>
+   [pin.ucf(38)] is overridden on the design object common<0> by the constraint
+   <NET "common<0>" LOC = P44;> [pin.ucf(43)].
+WARNING:NgdBuild:1012 - The constraint <NET "common(1)" LOC = P43;>
+   [pin.ucf(39)] is overridden on the design object common<1> by the constraint
+   <NET "common<1>" LOC = P43;> [pin.ucf(44)].
+WARNING:NgdBuild:1012 - The constraint <NET "common(2)" LOC = P33;>
+   [pin.ucf(40)] is overridden on the design object common<2> by the constraint
+   <NET "common<2>" LOC = P33;> [pin.ucf(45)].
+WARNING:NgdBuild:1012 - The constraint <NET "common(3)" LOC = P30;>
+   [pin.ucf(41)] is overridden on the design object common<3> by the constraint
+   <NET "common<3>" LOC = P30;> [pin.ucf(46)].
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:  22
+
+Total memory usage is 4395912 kilobytes
+
+Writing NGD file "main.ngd" ...
+Total REAL time to NGDBUILD completion:  3 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+Writing NGDBUILD log file "main.bld"...

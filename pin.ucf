@@ -1,0 +1,46 @@
+NET "osc" LOC = P123;
+
+NET "l_move" LOC = P137;//???? P45
+NET "r_move" LOC = P131;//P 46
+NET "btn_shoot" LOC = P126;//P 51
+NET "btn_reset" LOC = P133; //P48 
+//RESET PIN
+NET "reset" LOC = P48;
+
+//VGA Sync
+NET "h_sync" LOC = P12;
+NET "v_sync" LOC = P10;
+
+//VGA RGB
+NET "rgb_out(0)" LOC = P22;
+NET "rgb_out(1)" LOC = P17;
+NET "rgb_out(2)" LOC = P15;
+
+//Seven segment
+NET "segm_out(0)" LOC = P41;
+NET "segm_out(1)" LOC = P40;
+NET "segm_out(2)" LOC = P35;
+NET "segm_out(3)" LOC = P34;
+NET "segm_out(4)" LOC = P32;
+NET "segm_out(5)" LOC = P29;
+NET "segm_out(6)" LOC = P27;
+
+NET "segm_out<0>" LOC = P41;
+NET "segm_out<1>" LOC = P40;
+NET "segm_out<2>" LOC = P35;
+NET "segm_out<3>" LOC = P34;
+NET "segm_out<4>" LOC = P32;
+NET "segm_out<5>" LOC = P29;
+NET "segm_out<6>" LOC = P27;
+
+
+//Common
+NET "common(0)" LOC = P44;
+NET "common(1)" LOC = P43;
+NET "common(2)" LOC = P33;
+NET "common(3)" LOC = P30;
+
+NET "common<0>" LOC = P44;
+NET "common<1>" LOC = P43;
+NET "common<2>" LOC = P33;
+NET "common<3>" LOC = P30;

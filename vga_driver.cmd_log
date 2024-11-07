@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/kasid/Downloads/DEMO (2)/DEMO/DEMO/vga_driver.v} -lang verilog -prj DEMO -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 vga_driver.spl {C:/Users/kasid/Downloads/DEMO (2)/DEMO/DEMO/vga_driver.sym} 

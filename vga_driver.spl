@@ -1,0 +1,13 @@
+[Inputs]
+clk
+reset
+[Outputs]
+h_sync
+v_sync
+is_active
+=next_x[9:0]=
+=next_y[9:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel vga_driver
+

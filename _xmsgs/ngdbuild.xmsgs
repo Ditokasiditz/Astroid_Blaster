@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(0)&quot; LOC = P41;&gt; [pin.ucf(20)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(1)&quot; LOC = P40;&gt; [pin.ucf(21)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(2)&quot; LOC = P35;&gt; [pin.ucf(22)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(3)&quot; LOC = P34;&gt; [pin.ucf(23)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(4)&quot; LOC = P32;&gt; [pin.ucf(24)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(5)&quot; LOC = P29;&gt; [pin.ucf(25)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;segm_out(6)&quot; LOC = P27;&gt; [pin.ucf(26)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;common(0)&quot; LOC = P44;&gt; [pin.ucf(38)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;common(1)&quot; LOC = P43;&gt; [pin.ucf(39)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;common(2)&quot; LOC = P33;&gt; [pin.ucf(40)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET &quot;common(3)&quot; LOC = P30;&gt; [pin.ucf(41)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(0)&quot; LOC = P41;&gt; [pin.ucf(20)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;0&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;0&gt;&quot; LOC = P41;&gt; [pin.ucf(28)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(1)&quot; LOC = P40;&gt; [pin.ucf(21)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;1&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;1&gt;&quot; LOC = P40;&gt; [pin.ucf(29)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(2)&quot; LOC = P35;&gt; [pin.ucf(22)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;2&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;2&gt;&quot; LOC = P35;&gt; [pin.ucf(30)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(3)&quot; LOC = P34;&gt; [pin.ucf(23)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;3&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;3&gt;&quot; LOC = P34;&gt; [pin.ucf(31)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(4)&quot; LOC = P32;&gt; [pin.ucf(24)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;4&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;4&gt;&quot; LOC = P32;&gt; [pin.ucf(32)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(5)&quot; LOC = P29;&gt; [pin.ucf(25)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;5&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;5&gt;&quot; LOC = P29;&gt; [pin.ucf(33)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;segm_out(6)&quot; LOC = P27;&gt; [pin.ucf(26)]</arg> is overridden on the design object <arg fmt="%s" index="2">segm_out&lt;6&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;segm_out&lt;6&gt;&quot; LOC = P27;&gt; [pin.ucf(34)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;common(0)&quot; LOC = P44;&gt; [pin.ucf(38)]</arg> is overridden on the design object <arg fmt="%s" index="2">common&lt;0&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;common&lt;0&gt;&quot; LOC = P44;&gt; [pin.ucf(43)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;common(1)&quot; LOC = P43;&gt; [pin.ucf(39)]</arg> is overridden on the design object <arg fmt="%s" index="2">common&lt;1&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;common&lt;1&gt;&quot; LOC = P43;&gt; [pin.ucf(44)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;common(2)&quot; LOC = P33;&gt; [pin.ucf(40)]</arg> is overridden on the design object <arg fmt="%s" index="2">common&lt;2&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;common&lt;2&gt;&quot; LOC = P33;&gt; [pin.ucf(45)]</arg>.
+</msg>
+
+<msg type="warning" file="NgdBuild" num="1012" delta="old" >The constraint <arg fmt="%s" index="1">&lt;NET &quot;common(3)&quot; LOC = P30;&gt; [pin.ucf(41)]</arg> is overridden on the design object <arg fmt="%s" index="2">common&lt;3&gt;</arg> by the constraint <arg fmt="%s" index="3">&lt;NET &quot;common&lt;3&gt;&quot; LOC = P30;&gt; [pin.ucf(46)]</arg>.
+</msg>
+
+</messages>
+
